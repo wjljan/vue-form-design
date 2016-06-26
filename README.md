@@ -66,9 +66,9 @@ src
 3.在按钮区域点击重置按钮，将重置设计表单；点击提交按钮，将生成组件清单数据。
 
 ```
-##数据流
+##逻辑
 ```bash
-数据驱动视图：
+vuex单向数据流：
 state -> view -> event -> action -> mutation -> state -> view
 
 说明：
