@@ -1,6 +1,4 @@
-# vue form design demo
-
-> vue表单设计demo
+# vue表单设计demo
 
 ## 安装
 
