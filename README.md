@@ -1,8 +1,8 @@
-# demo
+# vue form design demo
 
-> a demo
+> vue表单设计demo
 
-## Build Setup
+## 安装
 
 ``` bash
 # install dependencies
@@ -20,5 +20,8 @@ npm run lint
 # run unit tests
 npm test
 ```
+##交互逻辑
+```bash
+范德萨范德萨
 
-For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+```
