@@ -76,7 +76,7 @@ state -> view -> event -> action -> mutation -> state -> view
 action会触发对应的mutation来修改组件数据的state，
 state的变化会反应到预览区域和编辑区域的视图上。
 ```
-##toDos
+##toDo
 ```bash
  1.预览组件之间可拖动排序
  2.组件表单项细化
