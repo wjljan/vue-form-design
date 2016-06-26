@@ -21,7 +21,7 @@ npm run lint
 npm test
 ```
 ##说明
-```bash
+
 分为四个区域：
 1.组件标签区域(label)、2.组件预览区域(preview)、3.组件编辑区域(edit)、4.按钮区域(button)
 
@@ -49,7 +49,7 @@ button ——
   |    |—— widget ——
   |                |—— resetButton.vue //重置按钮
   |                |—— submitBUtton.vue //提交按钮
-```
+
 
 ##交互逻辑
 ```bash
