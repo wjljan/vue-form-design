@@ -49,8 +49,8 @@ src
  |     |- button
  |          |- buttonWrapper.vue //按钮区域容器
  |          |- widget
- |               |- resetButton.vue //重置按钮
- |               |- submitBUtton.vue //提交按钮
+ |               |- resetButton.vue //重置button
+ |               |- submitBUtton.vue //提交button
  |
  |- store
        |- index.ks //挂载vuex
