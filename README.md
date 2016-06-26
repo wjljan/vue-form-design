@@ -52,7 +52,7 @@ src
  |               |- resetButton.vue //重置按钮
  |               |- submitBUtton.vue //提交按钮
  |
- |- storre
+ |- store
        |- index.ks //挂载vuex
        |- actions.js //触发mutation
        |- mutations.js //修改state
