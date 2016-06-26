@@ -47,10 +47,10 @@ src
  |     |         |- voteEdit.vue //投票edit组件
  |     |         |- ...
  |     |- button
- |     |    |- buttonWrapper.vue //按钮区域容器
- |     |    |- widget
- |     |         |- resetButton.vue //重置按钮
- |     |         |- submitBUtton.vue //提交按钮
+ |          |- buttonWrapper.vue //按钮区域容器
+ |          |- widget
+ |               |- resetButton.vue //重置按钮
+ |               |- submitBUtton.vue //提交按钮
  |
  |- storre
        |- index.ks //挂载vuex
