@@ -72,6 +72,7 @@ src
 vuex单向数据流：
 
     state -> view -> event -> action -> mutation -> state
+    
     数据驱动视图
 
 说明：
