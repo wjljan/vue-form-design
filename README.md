@@ -71,16 +71,11 @@ src
 ```bash
 vuex单向数据流：
 
-    state -> view -> event -> action -> mutation -> state -> view
+    state -> view -> event -> action -> mutation -> state
 
 说明：
 
     拖动标签至预览区域、删除预览区域某预览组件、编辑组件数据项等事件都会触发对应action，
     action会触发对应的mutation来修改组件数据的state，
     state的变化会反应到预览区域和编辑区域的视图上。
-```
-##toDo
-```bash
- 1.预览组件之间可拖动排序
- 2.组件表单项细化
 ```
